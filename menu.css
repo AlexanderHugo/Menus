@@ -90,14 +90,14 @@ header#cabecalho h1 {
 	padding-top: 100px;
 	text-align: center;
 	font-family: Arial,sans-serif;
-	font-size: 170pt;
+	font-size: 100pt;
 }
 
 /*Rest*/
 
 div#layout {
 	width: 1000px;
-	height: 1365px;
+	height: 1270px;
 	background-color: #6476fd;
 	margin: 0 auto;
 	box-shadow: 3px 3px 16px #000;
